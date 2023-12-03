@@ -1,0 +1,1 @@
+Here Java includes the classes added to the 'mypack' package.
